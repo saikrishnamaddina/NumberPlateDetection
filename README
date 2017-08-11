@@ -1,0 +1,8 @@
+
+NUMBERPLATEDETECTION USING OPENCV
+
+
+1.Excute the program by using
+
+      python numpltdet.py <filename.jpg>
+
